@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'AnimationFlag',
+    pageLink: './Art/AnimationFlag/index.html',
+    imageLink: './Art/AnimationFlag/simbolo.gif',
+    author: 'AR',
+    githubLink: 'https://github.com/ARSL22'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+

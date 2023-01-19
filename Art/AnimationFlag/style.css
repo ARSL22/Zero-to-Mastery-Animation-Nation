@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(3, 3, 3);
+}
+.container{
+    float: left;
+    margin: 50px;
+    animation: lightSpeedInLeft;
+    animation-duration: 2s;
+}
+div{
+    width: 400px;
+    height: 100px;
+}
+
+.horizontal{
+    width: 200px;
+    height: 300px;
+    float: left;
+    
+}
+
+.verde{
+    background-color: green;
+}
+.vermelho{
+    background-color: red;
+}
+
+.simbolo{
+    background-image: url(./simbolo.gif);
+    animation:lightSpeedInLeft;
+    animation-duration: 2s;
+}
+.centrado{
+    position: absolute;
+    top: 104%;
+    left: 16%;
+    margin: -40% 0 0 -40px;
+}
+.redondo{
+    border-radius: 60%;
+    width: 13vh;
+    height: 6vw;
+    
+}
